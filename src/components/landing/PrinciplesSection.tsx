@@ -20,8 +20,8 @@ const PRINCIPLES = [
     icon: icon(<><path d="M14 9.536V7a4 4 0 0 1 4-4h1.5a.5.5 0 0 1 .5.5V5a4 4 0 0 1-4 4 4 4 0 0 0-4 4c0 2 1 3 1 5a5 5 0 0 1-1 3" /><path d="M4 9a5 5 0 0 1 8 4 5 5 0 0 1-8-4" /><path d="M5 21h14" /></>),
   },
   {
-    title: "Kết quả được kiểm tra\u00a0lại",
-    body: "AI tính toán nhanh nhưng vẫn có thể sai. Người có chuyên môn đọc lại để luận giải đúng với lá số của bạn.",
+    title: "Bản trả phí được kiểm tra\u00a0lại",
+    body: "AI tính toán nhanh nhưng vẫn có thể sai. Với bản trả phí, Dịch sư đọc lại để luận giải đúng với lá số của bạn.",
     icon: icon(<><path d="M12 8V4H8" /><rect width="16" height="12" x="4" y="8" rx="2" /><path d="M2 14h2" /><path d="M20 14h2" /><path d="M15 13v2" /><path d="M9 13v2" /></>),
   },
   {
